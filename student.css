@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-size: contain;
+}
+
+.basic{
+    height: 3rem;
+    background-color: #b5c1d3;
+    text-align: center;
+    padding-top: 6px;
+    margin-top: 14px;
+    font-size: 17px;
+    text-decoration:wavy;
+    font-family: sans-serif;
+    font-weight: 200 ;
+    
+}
+
+#label {
+    margin-top: 12px;
+    font-family: sans-serif;
+    font-size: 18px;
+
+}
+
+/* for star*  */
+ .required{
+    color: red;
+ }
+
+.ed {
+    margin-top: 8px;
+}
